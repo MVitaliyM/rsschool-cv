@@ -36,3 +36,10 @@ I consider myself a __hardworking__, **inquisitive** and **communicative person*
 </div>
 
 ```
+## Education
+* DON STATE TECHNICAL UNIVERSITY (DSTU)
+  * _Electronics, radio engineering and communication systems_
+
+## English
+* Level A1. Beginner
+***
