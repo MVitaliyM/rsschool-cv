@@ -42,4 +42,3 @@ I consider myself a __hardworking__, **inquisitive** and **communicative person*
 
 ## English
 * Level A1. Beginner
-***
