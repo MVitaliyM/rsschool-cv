@@ -19,3 +19,20 @@ I consider myself a __hardworking__, **inquisitive** and **communicative person*
 * JavaScript (basics).
 * Version control: Git-GitHub.
 * Editors: Sublime, VSCode
+
+## Code examples
+```css
+.visual {
+	flex-grow: 1;
+	display: flex;
+	justify-content: flex-end;
+	position: relative;
+}
+```
+```html
+<div class="text">
+ <h1 class="title"></h1>
+  <a target="_blank" href="#"></a>
+</div>
+
+```
